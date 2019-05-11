@@ -33,12 +33,9 @@ class App extends React.Component {
               matteo@manzinello.dev
             </a>
           </div>
-          docs:{" "}
-          <a
-            className="App-link"
-            href="https://github.com/manzinello/mailgo/blob/master/README.md"
-          >
-            README
+          docs on{" "}
+          <a className="App-link" href="https://www.npmjs.com/package/mailgo">
+            npm
           </a>
           <br />
           <br />
