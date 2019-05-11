@@ -48,6 +48,17 @@ class App extends React.Component {
           />
           <br />
           <br />
+          <a
+            className="github-button"
+            href="https://github.com/manzinello/mailgo"
+            data-icon="octicon-star"
+            data-show-count="true"
+            aria-label="Star manzinello/mailgo on GitHub"
+          >
+            Star
+          </a>
+          <br />
+          <br />
           <div className="smaller">
             a project by
             <br />
