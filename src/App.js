@@ -40,6 +40,12 @@ class App extends React.Component {
           <br />
           <br />
           <img
+            alt="npm"
+            src="https://img.shields.io/npm/v/mailgo.svg?style=flat-square"
+          />
+          <br />
+          <br />
+          <img
             alt="size of mailgo.min.js on GitHub"
             src="https://img.shields.io/github/size/manzinello/mailgo/dist/mailgo.min.js.svg?label=mailgo.min.js&style=flat-square"
           />
